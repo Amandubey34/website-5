@@ -7,7 +7,7 @@ bloopark
 
 We are an internet agency and Odoo partner based in Magdeburg, Germany with over 10 years of experience in e-commerce, responsive design and development.
 We consider ourselves as A-team, small and efficient.
-With remote developers all across the world, we are pride of our wide perspective and approach in every challenge, which leads to the best customer-oriented solutions.
+With remote developers all across the world, we are pride of our wide perspective and approach in every challenge, which leads to the best customer-oriented solutions.Stay Safe and Stay at Home!
 
 
 Support
